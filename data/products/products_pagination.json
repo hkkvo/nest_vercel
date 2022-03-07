@@ -1,0 +1,1104 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 1,
+      "name": "Shoppie UI Kit PSD Ecommerce Design Template",
+      "slug": "shoppie-ui-kit",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 1,
+      "price": 7.99,
+      "shop_id": 3,
+      "sale_price": null,
+      "min_price": 7.99,
+      "max_price": 7.99,
+      "sku": "afsafsd656565",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 186,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/186/Rectangle-836.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/186/conversions/Rectangle-836-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 187,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/187/Rectangle-836.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/187/conversions/Rectangle-836-thumbnail.jpg"
+        },
+        {
+          "id": 188,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/188/Rectangle-844.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/188/conversions/Rectangle-844-thumbnail.jpg"
+        },
+        {
+          "id": 189,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/189/Rectangle-845.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/189/conversions/Rectangle-845-thumbnail.jpg"
+        },
+        {
+          "id": 190,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/190/Rectangle-846.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/190/conversions/Rectangle-846-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-22T17:26:22.000000Z",
+      "updated_at": "2022-02-03T14:02:41.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 1,
+        "attachment_id": 28,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/28/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 1,
+        "created_at": "2022-01-22T17:26:22.000000Z",
+        "updated_at": "2022-02-03T14:02:41.000000Z"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sailor UI Theme 3D Lanfing Design with Figma and XD",
+      "slug": "sailor-ui-theme",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 3,
+      "price": 69,
+      "shop_id": 3,
+      "sale_price": null,
+      "min_price": 69,
+      "max_price": 69,
+      "sku": "658454sdf654s8fsd4fsdsdf",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 181,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/181/Rectangle-837.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/181/conversions/Rectangle-837-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 182,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/182/Rectangle-837.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/182/conversions/Rectangle-837-thumbnail.jpg"
+        },
+        {
+          "id": 183,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/183/Rectangle-838.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/183/conversions/Rectangle-838-thumbnail.jpg"
+        },
+        {
+          "id": 184,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/184/Rectangle-840.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/184/conversions/Rectangle-840-thumbnail.jpg"
+        },
+        {
+          "id": 185,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/185/Rectangle-845.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/185/conversions/Rectangle-845-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-22T17:39:40.000000Z",
+      "updated_at": "2022-02-03T14:02:36.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 2,
+        "attachment_id": 33,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/33/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 2,
+        "created_at": "2022-01-22T17:39:40.000000Z",
+        "updated_at": "2022-02-03T14:02:36.000000Z"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Multipurpose App Design Figma UI Library",
+      "slug": "multipurpose-app-design",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 2,
+      "price": 18,
+      "shop_id": 3,
+      "sale_price": null,
+      "min_price": 18,
+      "max_price": 18,
+      "sku": "ad4tg8g",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 176,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/176/Rectangle-838.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/176/conversions/Rectangle-838-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 177,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/177/Rectangle-837.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/177/conversions/Rectangle-837-thumbnail.jpg"
+        },
+        {
+          "id": 178,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/178/Rectangle-838.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/178/conversions/Rectangle-838-thumbnail.jpg"
+        },
+        {
+          "id": 179,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/179/Rectangle-845.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/179/conversions/Rectangle-845-thumbnail.jpg"
+        },
+        {
+          "id": 180,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/180/Rectangle-846.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/180/conversions/Rectangle-846-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-22T17:48:42.000000Z",
+      "updated_at": "2022-02-03T14:02:31.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 3,
+        "attachment_id": 38,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/38/Mask-Group-2.png",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 3,
+        "created_at": "2022-01-22T17:49:05.000000Z",
+        "updated_at": "2022-02-03T14:02:31.000000Z"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Edutonic Multipurporse Education Theme With Elementor",
+      "slug": "edutonic",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 3,
+      "price": 29,
+      "shop_id": 3,
+      "sale_price": null,
+      "min_price": 29,
+      "max_price": 29,
+      "sku": "4va684f8sda4fsd89a4fdsa4f856",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 171,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/171/Rectangle-839.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/171/conversions/Rectangle-839-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 172,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/172/Rectangle-839.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/172/conversions/Rectangle-839-thumbnail.jpg"
+        },
+        {
+          "id": 173,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/173/Rectangle-840.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/173/conversions/Rectangle-840-thumbnail.jpg"
+        },
+        {
+          "id": 174,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/174/Rectangle-842.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/174/conversions/Rectangle-842-thumbnail.jpg"
+        },
+        {
+          "id": 175,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/175/Rectangle-844.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/175/conversions/Rectangle-844-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-22T18:29:05.000000Z",
+      "updated_at": "2022-02-03T14:02:26.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 4,
+        "attachment_id": 44,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/44/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 4,
+        "created_at": "2022-01-22T18:29:05.000000Z",
+        "updated_at": "2022-02-03T14:02:26.000000Z"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Businessify HTML Ecommerce Magazine Template",
+      "slug": "businessify",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 4,
+      "price": 29,
+      "shop_id": 3,
+      "sale_price": 23,
+      "min_price": 29,
+      "max_price": 29,
+      "sku": "sd4fad84f9d86sda4fsd5afsd",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 166,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/166/Rectangle-840.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/166/conversions/Rectangle-840-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 167,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/167/Rectangle-832.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/167/conversions/Rectangle-832-thumbnail.jpg"
+        },
+        {
+          "id": 168,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/168/Rectangle-833.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/168/conversions/Rectangle-833-thumbnail.jpg"
+        },
+        {
+          "id": 169,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/169/Rectangle-834.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/169/conversions/Rectangle-834-thumbnail.jpg"
+        },
+        {
+          "id": 170,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/170/Rectangle-840.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/170/conversions/Rectangle-840-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-22T18:40:10.000000Z",
+      "updated_at": "2022-02-03T14:02:21.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 5,
+        "attachment_id": 0,
+        "url": "",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 5,
+        "created_at": "2022-01-22T18:40:10.000000Z",
+        "updated_at": "2022-02-03T14:02:21.000000Z"
+      }
+    },
+    {
+      "id": 6,
+      "name": "COvify Bootstrap CMS Template",
+      "slug": "covify",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 1,
+      "price": 49,
+      "shop_id": 2,
+      "sale_price": 35,
+      "min_price": 49,
+      "max_price": 49,
+      "sku": "8d4f98a6sd4f84sdaf65sda4f",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 161,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/161/Rectangle-841.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/161/conversions/Rectangle-841-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 162,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/162/Rectangle-841.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/162/conversions/Rectangle-841-thumbnail.jpg"
+        },
+        {
+          "id": 163,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/163/Rectangle-842.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/163/conversions/Rectangle-842-thumbnail.jpg"
+        },
+        {
+          "id": 164,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/164/Rectangle-845.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/164/conversions/Rectangle-845-thumbnail.jpg"
+        },
+        {
+          "id": 165,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/165/Rectangle-850.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/165/conversions/Rectangle-850-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-22T18:54:10.000000Z",
+      "updated_at": "2022-02-03T14:02:16.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 6,
+        "attachment_id": 54,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/54/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 6,
+        "created_at": "2022-01-22T18:54:10.000000Z",
+        "updated_at": "2022-02-03T14:02:16.000000Z"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Aptify Swift Ecommerce Theme",
+      "slug": "aptify",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 2,
+      "price": 19,
+      "shop_id": 2,
+      "sale_price": null,
+      "min_price": 19,
+      "max_price": 19,
+      "sku": "64afsd4f5sa4d456",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 156,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/156/Rectangle-844.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/156/conversions/Rectangle-844-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 157,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/157/Rectangle-828.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/157/conversions/Rectangle-828-thumbnail.jpg"
+        },
+        {
+          "id": 158,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/158/Rectangle-836.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/158/conversions/Rectangle-836-thumbnail.jpg"
+        },
+        {
+          "id": 159,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/159/Rectangle-844.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/159/conversions/Rectangle-844-thumbnail.jpg"
+        },
+        {
+          "id": 160,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/160/Rectangle-845.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/160/conversions/Rectangle-845-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-22T18:55:17.000000Z",
+      "updated_at": "2022-02-03T14:02:10.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 7,
+        "attachment_id": 0,
+        "url": "",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 7,
+        "created_at": "2022-01-22T18:55:17.000000Z",
+        "updated_at": "2022-02-03T14:02:10.000000Z"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Portello React Gatsby Portfoliot Template With Shoppify",
+      "slug": "portello",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 3,
+      "price": 0,
+      "shop_id": 2,
+      "sale_price": null,
+      "min_price": 0,
+      "max_price": 0,
+      "sku": "5d4f6asd465sda4f654sdaf",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 151,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/151/Rectangle-845.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/151/conversions/Rectangle-845-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 152,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/152/Rectangle-790.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/152/conversions/Rectangle-790-thumbnail.jpg"
+        },
+        {
+          "id": 153,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/153/Rectangle-841.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/153/conversions/Rectangle-841-thumbnail.jpg"
+        },
+        {
+          "id": 154,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/154/Rectangle-844.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/154/conversions/Rectangle-844-thumbnail.jpg"
+        },
+        {
+          "id": 155,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/155/Rectangle-845.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/155/conversions/Rectangle-845-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-22T18:56:33.000000Z",
+      "updated_at": "2022-02-14T13:07:34.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 8,
+        "attachment_id": 64,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/64/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 8,
+        "created_at": "2022-01-22T18:56:33.000000Z",
+        "updated_at": "2022-02-03T14:02:05.000000Z"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Busineessmind GraphQL React WordPress Business Theme",
+      "slug": "busineessmind",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 3,
+      "price": 25,
+      "shop_id": 2,
+      "sale_price": null,
+      "min_price": 25,
+      "max_price": 25,
+      "sku": "9f87a84a54564vsdv",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 146,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/146/Rectangle-846.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/146/conversions/Rectangle-846-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 147,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/147/Rectangle-834.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/147/conversions/Rectangle-834-thumbnail.jpg"
+        },
+        {
+          "id": 148,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/148/Rectangle-836.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/148/conversions/Rectangle-836-thumbnail.jpg"
+        },
+        {
+          "id": 149,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/149/Rectangle-845.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/149/conversions/Rectangle-845-thumbnail.jpg"
+        },
+        {
+          "id": 150,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/150/Rectangle-846.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/150/conversions/Rectangle-846-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-23T06:58:18.000000Z",
+      "updated_at": "2022-02-03T14:02:01.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 9,
+        "attachment_id": 66,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/66/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 9,
+        "created_at": "2022-01-23T06:58:18.000000Z",
+        "updated_at": "2022-02-03T14:02:01.000000Z"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Superify",
+      "slug": "superify",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 4,
+      "price": 19,
+      "shop_id": 2,
+      "sale_price": null,
+      "min_price": 19,
+      "max_price": 19,
+      "sku": "8s4gdf8g4sdf8949fdg5df",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 141,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/141/Rectangle-847.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/141/conversions/Rectangle-847-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 142,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/142/Rectangle-834.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/142/conversions/Rectangle-834-thumbnail.jpg"
+        },
+        {
+          "id": 143,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/143/Rectangle-836.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/143/conversions/Rectangle-836-thumbnail.jpg"
+        },
+        {
+          "id": 144,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/144/Rectangle-837.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/144/conversions/Rectangle-837-thumbnail.jpg"
+        },
+        {
+          "id": 145,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/145/Rectangle-847.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/145/conversions/Rectangle-847-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-23T07:03:51.000000Z",
+      "updated_at": "2022-02-03T14:01:56.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 10,
+        "attachment_id": 71,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/71/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 10,
+        "created_at": "2022-01-23T07:03:51.000000Z",
+        "updated_at": "2022-02-03T14:01:56.000000Z"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Rental & Booking WP plugin for WooCommerce",
+      "slug": "rental-bookin",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 1,
+      "price": 39,
+      "shop_id": 1,
+      "sale_price": 29,
+      "min_price": 39,
+      "max_price": 39,
+      "sku": "84a84sd654f5sd5f1sd231v",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 136,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/136/Rectangle-848.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/136/conversions/Rectangle-848-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 137,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/137/Mask-Group-3.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/137/conversions/Mask-Group-3-thumbnail.jpg"
+        },
+        {
+          "id": 138,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/138/Rectangle-773.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/138/conversions/Rectangle-773-thumbnail.jpg"
+        },
+        {
+          "id": 139,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/139/Rectangle-777.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/139/conversions/Rectangle-777-thumbnail.jpg"
+        },
+        {
+          "id": 140,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/140/Rectangle-848.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/140/conversions/Rectangle-848-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-23T07:06:05.000000Z",
+      "updated_at": "2022-02-03T14:01:51.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 11,
+        "attachment_id": 76,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/76/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 11,
+        "created_at": "2022-01-23T07:06:05.000000Z",
+        "updated_at": "2022-02-03T14:01:51.000000Z"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Isomorphic React Next Joomla Template",
+      "slug": "isomorphic",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 3,
+      "price": null,
+      "shop_id": 1,
+      "sale_price": 0,
+      "min_price": null,
+      "max_price": null,
+      "sku": "894dfg8df4g564g1v",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 77,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/77/Mask-Group-11.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/77/conversions/Mask-Group-11-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 78,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/78/Mask-Group-3.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/78/conversions/Mask-Group-3-thumbnail.jpg"
+        },
+        {
+          "id": 79,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/79/Mask-Group-14.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/79/conversions/Mask-Group-14-thumbnail.jpg"
+        },
+        {
+          "id": 80,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/80/Mask-Group-18.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/80/conversions/Mask-Group-18-thumbnail.jpg"
+        },
+        {
+          "id": 442,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/442/Rectangle-790.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/442/conversions/Rectangle-790-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-23T07:08:14.000000Z",
+      "updated_at": "2022-02-15T09:06:18.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 12,
+        "attachment_id": 420,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/420/glimpse-html.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 12,
+        "created_at": "2022-01-23T07:08:14.000000Z",
+        "updated_at": "2022-02-03T14:01:45.000000Z"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Phone Gapp All in One Phone App",
+      "slug": "phone-gapp",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 2,
+      "price": 29,
+      "shop_id": 1,
+      "sale_price": 25,
+      "min_price": 29,
+      "max_price": 29,
+      "sku": "8a4g89ad4f86d4a864fs4",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 131,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/131/Rectangle-849.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/131/conversions/Rectangle-849-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 132,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/132/Rectangle-827.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/132/conversions/Rectangle-827-thumbnail.jpg"
+        },
+        {
+          "id": 133,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/133/Rectangle-828.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/133/conversions/Rectangle-828-thumbnail.jpg"
+        },
+        {
+          "id": 134,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/134/Rectangle-832.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/134/conversions/Rectangle-832-thumbnail.jpg"
+        },
+        {
+          "id": 135,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/135/Rectangle-849.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/135/conversions/Rectangle-849-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-23T07:30:01.000000Z",
+      "updated_at": "2022-02-03T14:00:32.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 13,
+        "attachment_id": 86,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/86/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 13,
+        "created_at": "2022-01-23T07:30:01.000000Z",
+        "updated_at": "2022-02-03T14:00:32.000000Z"
+      }
+    },
+    {
+      "id": 14,
+      "name": "BdB Air Accomodattion WordPress Theme",
+      "slug": "bdb-air",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 3,
+      "price": 39,
+      "shop_id": 1,
+      "sale_price": null,
+      "min_price": 39,
+      "max_price": 39,
+      "sku": "658g1a64da54fa",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 126,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/126/Rectangle-850.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/126/conversions/Rectangle-850-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 127,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/127/Rectangle-831.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/127/conversions/Rectangle-831-thumbnail.jpg"
+        },
+        {
+          "id": 128,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/128/Rectangle-841.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/128/conversions/Rectangle-841-thumbnail.jpg"
+        },
+        {
+          "id": 129,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/129/Rectangle-842.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/129/conversions/Rectangle-842-thumbnail.jpg"
+        },
+        {
+          "id": 130,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/130/Rectangle-850.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/130/conversions/Rectangle-850-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-23T07:32:23.000000Z",
+      "updated_at": "2022-02-03T14:00:28.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 14,
+        "attachment_id": 91,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/91/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 14,
+        "created_at": "2022-01-23T07:32:23.000000Z",
+        "updated_at": "2022-02-03T14:00:28.000000Z"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Charity Landing React Next Landing Page",
+      "slug": "charity-landing",
+      "description": "Along With Wordpress Themes & Plugins, We always try to use latest trending techs like React, Next Js, Gatsby Js, GraphQl, Shopify etc to make our products special. Our rich tech choice will help you to build high performance applications. We are also known to provide great customer supports to our customers.",
+      "type_id": 4,
+      "price": 49,
+      "shop_id": 1,
+      "sale_price": 45,
+      "min_price": 49,
+      "max_price": 49,
+      "sku": "564a65sd4f4a65asd4f4sdf654sdf",
+      "preview_url": "https://themeforest.net/user/redqteam/portfolio",
+      "quantity": 500,
+      "in_stock": 1,
+      "is_taxable": 0,
+      "shipping_class_id": null,
+      "status": "publish",
+      "product_type": "simple",
+      "unit": "1",
+      "height": null,
+      "width": null,
+      "length": null,
+      "image": {
+        "id": 110,
+        "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/110/Rectangle-851.png",
+        "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/110/conversions/Rectangle-851-thumbnail.jpg"
+      },
+      "video": null,
+      "gallery": [
+        {
+          "id": 112,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/112/Rectangle-780.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/112/conversions/Rectangle-780-thumbnail.jpg"
+        },
+        {
+          "id": 113,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/113/Rectangle-781.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/113/conversions/Rectangle-781-thumbnail.jpg"
+        },
+        {
+          "id": 114,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/114/Rectangle-782.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/114/conversions/Rectangle-782-thumbnail.jpg"
+        },
+        {
+          "id": 125,
+          "original": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/125/Rectangle-851.png",
+          "thumbnail": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/125/conversions/Rectangle-851-thumbnail.jpg"
+        }
+      ],
+      "deleted_at": null,
+      "created_at": "2022-01-23T07:34:27.000000Z",
+      "updated_at": "2022-02-03T14:00:23.000000Z",
+      "author_id": null,
+      "manufacturer_id": null,
+      "is_digital": 1,
+      "is_external": 0,
+      "external_product_url": null,
+      "external_product_button_text": null,
+      "total_downloads": 0,
+      "digital_file": {
+        "id": 15,
+        "attachment_id": 93,
+        "url": "https://pixarlaravel.s3.ap-southeast-1.amazonaws.com/93/DOCUMENTATION.pdf",
+        "fileable_type": "Marvel\\Database\\Models\\Product",
+        "fileable_id": 15,
+        "created_at": "2022-01-23T07:34:27.000000Z",
+        "updated_at": "2022-02-03T14:00:23.000000Z"
+      }
+    }
+  ],
+  "first_page_url": "http://localhost/products?page=1",
+  "from": 1,
+  "last_page": 4,
+  "last_page_url": "http://localhost/products?page=4",
+  "links": [
+    { "url": null, "label": "&laquo; Previous", "active": false },
+    { "url": "http://localhost/products?page=1", "label": "1", "active": true },
+    {
+      "url": "http://localhost/products?page=2",
+      "label": "2",
+      "active": false
+    },
+    {
+      "url": "http://localhost/products?page=3",
+      "label": "3",
+      "active": false
+    },
+    {
+      "url": "http://localhost/products?page=4",
+      "label": "4",
+      "active": false
+    },
+    {
+      "url": "http://localhost/products?page=2",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "http://localhost/products?page=2",
+  "path": "http://localhost/products",
+  "per_page": 15,
+  "prev_page_url": null,
+  "to": 15,
+  "total": 51
+}
