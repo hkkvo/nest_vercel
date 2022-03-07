@@ -8,9 +8,24 @@ import { CategoriesModule } from './categories/categories.module';
 import { SettingsModule } from './settings/settings.module';
 import { AttachmentsModule } from './attachments/attachments.module';
 import { TypesModule } from './types/types.module';
+import { ServeStaticModule } from '@nestjs/serve-static';
+import { join } from 'path';
+
+console.log(
+  '=======================Dir Name==============',
+  join(__dirname, '.', 'data'),
+);
 
 @Module({
-  imports: [ProductsModule, ShopsModule, TagsModule, CategoriesModule, SettingsModule, AttachmentsModule, TypesModule],
+  imports: [
+    ProductsModule,
+    ShopsModule,
+    TagsModule,
+    CategoriesModule,
+    SettingsModule,
+    AttachmentsModule,
+    TypesModule,
+  ],
   controllers: [AppController],
   providers: [AppService],
 })
