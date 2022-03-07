@@ -1,12 +1,6 @@
 {
   "name": "w-pixar-nestjs",
   "version": "0.0.1",
-  "builds": [
-    {
-      "src": "dist/main.js",
-      "use": "@vercel/node"
-    }
-  ],
   "routes": [
     {
       "src": "/(.*)",
